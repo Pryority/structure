@@ -1,4 +1,15 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# STRUCTURE
+
+A   W E B   A P P   T E M P L A T E
+
+## Stack
+
+| Technology     | Description                                      |
+| -------------- | ------------------------------------------------ |
+| Next.js        | React framework for server-side rendering        |
+| Tailwind CSS   | Utility-first CSS framework                      |
+| NextAuth.js    | Authentication library for Next.js               |
+| Planetscale DB | Relational database for storing user information |
 
 ## Getting Started
 
@@ -12,7 +23,7 @@ yarn dev
 pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the template.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
