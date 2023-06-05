@@ -1,6 +1,6 @@
 # STRUCTURE
 
-A   W E B   A P P   T E M P L A T E
+An App Template
 
 ## Stack
 
